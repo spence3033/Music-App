@@ -2,9 +2,10 @@
 
 In this, I created a simple start of a website with a server. There isn't a lot of interaction but I plan to further work on this until I can use it for a future time to help music teachers.
 
-In order to run the server. You have to 
+The server, by the way is found at https://github.com/spence3033/music-site-server.git. I made a different angular project with the server. When the server is pulled up in vscode, you run "node app.js". That will start it running.
+Then to run the Web App you'll open the angular project on vscode and run "ng serve --proxy-config proxy.conf.json".
 
-{Describe your purpose for writing this software.}
+I wrote this software to learn how to work with a node.js server.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
@@ -16,19 +17,19 @@ In order to run the server. You have to
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Angular for the front-end work. Angular, by the way, is a framework that uses HTML, CSS, and TypeScript.
 
-{Describe the programming language that you used and any libraries.}
+I used Node.js for the server.
+
+In angular I used a library with CSS styling in angular called Angular Materials. It helps speed up the styling process as it already has nice styles for buttons, inputs, dropdowns, and other things.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.youtube.com/watch?v=RSJxWJ6dCL4&t=824s)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* So my front-end has a long way to go. But I spent a lot more of my time working on getting my types to pass from the server to TypeScript. I spent a couple hours debugging that problem, so I haven't put in as much time in the front-end. But that also wasn't the part I'm trying to learn.
+* In the future I want the server to be connected to a database and verify the user bassed possible on a password. The admin/teacher will be able to add assignments to his/her students which will be saved in the database. And the students can see their assignments.
