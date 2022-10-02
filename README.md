@@ -1,8 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this, I created a simple start of a website with a server. There isn't a lot of interaction but I plan to further work on this until I can use it for a future time to help music teachers.
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+In order to run the server. You have to 
 
 {Describe your purpose for writing this software.}
 
