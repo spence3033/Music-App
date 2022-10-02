@@ -7,9 +7,7 @@ Then to run the Web App you'll open the angular project on vscode and run "ng se
 
 I wrote this software to learn how to work with a node.js server.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YVXL5T68frs)
 
 # Web Pages
 
